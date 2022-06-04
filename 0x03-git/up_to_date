@@ -1,3 +1,4 @@
 git add .
-git comit -m"My comit msg"
+git comit -m "My commit msg"
 git push
+git pull
