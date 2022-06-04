@@ -1,0 +1,5 @@
+git add .
+git cpmmit -m "my commit msg"
+git push
+git checkout master/branch
+git push --set-upstream origin branch
